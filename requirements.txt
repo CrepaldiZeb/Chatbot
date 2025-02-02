@@ -1,0 +1,4 @@
+langchain>=0.0.148
+langchain_ollama
+langchain_community
+googlesearch-python
