@@ -29,13 +29,9 @@ Este projeto é um chatbot que se integra com a API do Ollama para utilizar o mo
    - Ative o ambiente:
      - No PowerShell:
        ```bash
-       .\venv\Scripts\Activate.ps1
+       ./venv/Scripts/activate
        ```
-     - No CMD:
-       ```bash
-       venv\Scripts\activate.bat
-       ```
-
+       
 2. **Instalar as dependências:**
    ```bash
    pip install -r requirements.txt
